@@ -1,0 +1,24 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "flask": "^0.2.10",
+    "serverless-python-requirements": "^5.1.1"
+  },
+  "devDependencies": {
+    "serverless-wsgi": "^1.7.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Sruthi_e@bitbucket.org/Sruthi_e/serverless.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Sruthi_e/serverless#readme"
+}
